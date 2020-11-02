@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1002006364048",
+    "firebase_url": "https://vrcure.firebaseio.com",
+    "project_id": "vrcure",
+    "storage_bucket": "vrcure.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002006364048:android:488bd0ff37835ca0a77d15",
+        "android_client_info": {
+          "package_name": "com.shms.patient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002006364048-qktjmnha1nqq1tvq2nfm0km0psujk25j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXabPoF1Vuhm-SPqkMcFVW2FmOJSucY-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002006364048-qktjmnha1nqq1tvq2nfm0km0psujk25j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
